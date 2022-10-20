@@ -4,6 +4,6 @@ final project for artificial intelligence class, implemented deep neural decisio
 
 
 
-https://topos-theory.github.io/deep-neural-decision-forests/
-https://keras.io/examples/structured_data/deep_neural_decision_forests/
+## https://topos-theory.github.io/deep-neural-decision-forests/
+## https://keras.io/examples/structured_data/deep_neural_decision_forests/
 
